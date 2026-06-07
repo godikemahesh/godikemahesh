@@ -4,6 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,14,26&height=210&section=header&text=Mahesh%20Godike&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%26%20Computer%20Vision%20Engineer%20%7C%20Python%20Developer%20%7C%20Edge%20AI%20Specialist&descSize=17&descAlignY=62&descColor=B0C4DE" />
 
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        HERO SECTION                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -308,6 +309,12 @@
 
 ---
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=godikemahesh&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godikemahesh&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=godikemahesh&theme=tokyonight)
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      GITHUB ANALYTICS                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
