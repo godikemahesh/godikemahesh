@@ -2,7 +2,7 @@
 <!--                      WAVE HEADER BANNER                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,14,26&height=210&section=header&text=Mahesh%20Godike&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%26%20Computer%20Vision%20Engineer%20%7C%20Python%20Developer%20%7C%20Edge%20AI%20Specialist&descSize=17&descAlignY=62&descColor=B0C4DE" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,14,26&height=210&section=header&text=Mahesh%20Godike&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%26%20Computer%20Vision%20Engineer%20%7C%20Python%20Developer%20%7C%20Edge%20AI%20Specialist&descSize=17&descAlignY=62&descColor=B0C4DE" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        HERO SECTION                           -->
@@ -72,8 +72,8 @@
 🏢  Role        : AI & Computer Vision Engineer
 🏬  Company     : Valkontek Embedded & IoT Services Pvt. Ltd.
 📍  Location    : Hyderabad, India 🇮🇳
-💼  Experience  : 1+ year (production AI systems, promoted intern → full-time in 6 months)
-🎓  Education   : B.Tech in AI & ML — Lateral Entry (Currently Pursuing)
+💼  Experience  : 1+ year (production AI systems, promoted intern → full-time)
+🎓  Education   : B.Tech in AI & ML 
 
 🎯  Focus Areas :
       ▸  Computer Vision  → YOLO, SegFormer, DeepLabV3, UNet, ByteTrack, Re-ID
