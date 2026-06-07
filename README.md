@@ -348,7 +348,7 @@
 
 | 🏅 Achievement | 📋 Details |
 |:---|:---|
-| 🚀 **Fast Promotion** | Promoted from Intern → Full-time AI Engineer at Valkontek in **6 months** |
+| 🚀 **Fast Promotion** | Promoted from Intern → Full-time AI Engineer at Valkonte|
 | 🤖 **Edge AI Pioneer** | One of few early-career engineers in India with production deployment on **NVIDIA Jetson AGX Orin** |
 | 🔬 **Full-Stack AI** | Delivered production systems across **CV + LLM + RAG + Agentic AI + IoT** |
 | 📡 **Smart City Deployment** | Real-time 8-camera Person Re-ID surveillance system in live production |
